@@ -20,15 +20,27 @@ export default function Home() {
 
           <div className="absolute top-[5%] left-[5%] flex gap-1">
             <a href={process.env.NEXT_PUBLIC_DEXS_URL}>
-              <img className="w-[60px] lg:w-auto" src="/new/x-icon.png" alt="" />
+              <img
+                className="w-[60px] lg:w-auto"
+                src="/new/x-icon.png"
+                alt=""
+              />
             </a>
             <a href={process.env.NEXT_PUBLIC_DEXS_URL}>
-              <img className="w-[60px] lg:w-auto" src="/new/d-icon.png" alt="" />
+              <img
+                className="w-[60px] lg:w-auto"
+                src="/new/d-icon.png"
+                alt=""
+              />
             </a>
           </div>
           <div className="absolute top-[50%] right-[3%] -translate-y-2/4">
             <a href={process.env.NEXT_PUBLIC_DEXS_URL}>
-              <img className="w-[120px] lg:w-auto float-right" src="/new/fefe.png" alt="" />
+              <img
+                className="w-[120px] lg:w-auto float-right"
+                src="/new/fefe.png"
+                alt=""
+              />
             </a>
           </div>
         </div>
@@ -36,7 +48,7 @@ export default function Home() {
         <div>
           <article
             className={clsx(
-              "text-center text-[40px] text-[#C7021E] px-[10%] py-8 break-all",
+              "text-center text-[16px] lg:text-[40px] text-[#C7021E] px-[10%] py-8 break-all",
               alfaFont.variable
             )}
           >
@@ -47,7 +59,7 @@ export default function Home() {
         <div className="bg-[#FAE517] px-[10%] py-12">
           <div
             className={clsx(
-              "text-center text-[40px] text-[#C7021E] break-words",
+              "text-center text-[16px] lg:text-[40px] text-[#C7021E] break-words",
               alfaFont.variable
             )}
           >
@@ -57,7 +69,7 @@ export default function Home() {
           <div>
             <div
               className={clsx(
-                "text-right text-[40px] text-[#C7021E] -rotate-12 pt-[100px] pb-[50px] pr-[20px] pl-[25%] break-words",
+                "text-right text-[16px] lg:text-[40px] text-[#C7021E] -rotate-12 p-[36px] pr-0 lg:pt-[100px] lg:pb-[50px] lg:pr-[20px] lg:pl-[25%] break-words",
                 alfaFont.variable
               )}
             >
@@ -67,9 +79,21 @@ export default function Home() {
           </div>
 
           <div className="flex justify-evenly mt-8">
-            <img className="animate-bounce" src="/new/down-vector.png" alt="" />
-            <img className="animate-bounce" src="/new/down-vector.png" alt="" />
-            <img className="animate-bounce" src="/new/down-vector.png" alt="" />
+            <img
+              className="animate-bounce w-[80px] lg:w-auto"
+              src="/new/down-vector.png"
+              alt=""
+            />
+            <img
+              className="animate-bounce w-[80px] lg:w-auto"
+              src="/new/down-vector.png"
+              alt=""
+            />
+            <img
+              className="animate-bounce w-[80px] lg:w-auto"
+              src="/new/down-vector.png"
+              alt=""
+            />
           </div>
         </div>
 
@@ -86,7 +110,7 @@ export default function Home() {
         <div className="bg-[#FAE517] px-[15%] py-8">
           <div
             className={clsx(
-              "text-[48px] text-[#C7021E] mb-8 break-words",
+              "text-[24px] lg:text-[48px] text-[#C7021E] mb-8 break-words",
               alfaFont.variable
             )}
           >
@@ -94,7 +118,7 @@ export default function Home() {
           </div>
           <div
             className={clsx(
-              "text-[32px] text-[#C7021E] break-words",
+              "text-[16px] lg:text-[32px] text-[#C7021E] break-words",
               alfaFont.variable
             )}
           >
@@ -102,7 +126,7 @@ export default function Home() {
           </div>
           <div
             className={clsx(
-              "text-[32px] text-[#C7021E] break-words",
+              "text-[16px] lg:text-[32px] text-[#C7021E] break-words",
               alfaFont.variable
             )}
           >
@@ -121,7 +145,7 @@ export default function Home() {
         {/* footer */}
         <div
           className={clsx(
-            "text-center text-[40px] text-[#C7021E] px-[10%] pt-8",
+            "text-center text-[16px] lg:text-[40px] text-[#C7021E] px-[10%] pt-8",
             alfaFont.variable
           )}
         >
