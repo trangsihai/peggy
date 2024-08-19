@@ -114,7 +114,7 @@ export default function Home() {
               alfaFont.variable
             )}
           >
-            Tokenomics token supply: 420,690,000
+            Tokenomics token supply: 1,000,000,000,000
           </div>
           <div
             className={clsx(
