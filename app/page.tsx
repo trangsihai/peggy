@@ -52,7 +52,7 @@ export default function Home() {
               alfaFont.variable
             )}
           >
-            CA: 0xfefe157c9d0aE025213092ff9a5cB56ab492BaB8
+            CA: TBA
           </article>
         </div>
 
