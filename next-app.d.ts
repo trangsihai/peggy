@@ -14,6 +14,7 @@ declare global {
       NEXT_PUBLIC_DEXS_URL: string;
       NEXT_PUBLIC_GECKO_URL: string;
       NEXT_PUBLIC_COIN_MARKET_CAP_URL: string;
+      NEXT_PUBLIC_TBA_URL: string;
     }
   }
 }

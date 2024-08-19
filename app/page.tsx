@@ -46,14 +46,16 @@ export default function Home() {
         </div>
 
         <div>
-          <article
-            className={clsx(
-              "text-center text-[16px] lg:text-[40px] text-[#C7021E] px-[10%] py-8 break-all",
-              alfaFont.variable
-            )}
-          >
-            CA: TBA
-          </article>
+          <a href={process.env.NEXT_PUBLIC_DEXS_URL}>
+            <article
+              className={clsx(
+                "text-center text-[16px] lg:text-[40px] text-[#C7021E] px-[10%] py-8 break-all",
+                alfaFont.variable
+              )}
+            >
+              CA: {process.env.NEXT_PUBLIC_TBA_URL}
+            </article>
+          </a>
         </div>
 
         <div className="bg-[#FAE517] px-[10%] py-12">
