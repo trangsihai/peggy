@@ -48,7 +48,7 @@ export default function Home() {
         <div className="bg-[#FAE517] px-[10%] py-12">
           <div
             className={clsx(
-              "text-center text-[40px] text-[#C7021E] break-word",
+              "text-center text-[40px] text-[#C7021E] break-words",
               alfaFont.variable
             )}
           >
@@ -58,7 +58,7 @@ export default function Home() {
           <div>
             <div
               className={clsx(
-                "text-right text-[40px] text-[#C7021E] -rotate-12 pt-[100px] pb-[50px] pr-[20px] pl-[25%] break-word",
+                "text-right text-[40px] text-[#C7021E] -rotate-12 pt-[100px] pb-[50px] pr-[20px] pl-[25%] break-words",
                 alfaFont.variable
               )}
             >
@@ -87,7 +87,7 @@ export default function Home() {
         <div className="bg-[#FAE517] px-[15%] py-8">
           <div
             className={clsx(
-              "text-[48px] text-[#C7021E] mb-8 break-word",
+              "text-[48px] text-[#C7021E] mb-8 break-words",
               alfaFont.variable
             )}
           >
@@ -95,15 +95,15 @@ export default function Home() {
           </div>
           <div
             className={clsx(
-              "text-[32px] text-[#C7021E] break-word",
+              "text-[32px] text-[#C7021E] break-words",
               alfaFont.variable
             )}
           >
-            No Taxes, No Bullshit. It's that simple.
+            No Taxes, No Bullshit. It&apos;s that simple.
           </div>
           <div
             className={clsx(
-              "text-[32px] text-[#C7021E] break-word",
+              "text-[32px] text-[#C7021E] break-words",
               alfaFont.variable
             )}
           >
