@@ -107,7 +107,7 @@ export default function Home() {
           </a>
         </div>
 
-        <div className="bg-[#FAE517] px-[15%] py-8">
+        <div className="bg-[#FAE517] px-[10%] py-8">
           <div
             className={clsx(
               "text-[24px] lg:text-[48px] text-[#C7021E] mb-8 break-words",
