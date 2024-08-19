@@ -65,8 +65,8 @@ export default function Home() {
               alfaFont.variable
             )}
           >
-            FEFE, the biggest meme on TRON, every chain needs its Fefe, every
-            fefe has its day.
+            FEIFEI, the biggest meme on TRON, every chain needs its FeiFei,
+            every feifei has its day.
           </div>
           <div>
             <div
@@ -75,8 +75,10 @@ export default function Home() {
                 alfaFont.variable
               )}
             >
-              Everything is just fine, FEFE is very serious frog,  brings many
-              sunshines, many fun and much love to TRON.
+              FEIFEI is a laid back frog in this "FEARY" market. Everthing is
+              just fine cause FEIFEI is here, serious and brings many sunshine,
+              many fun and much loves to TRON. Remeber again, FEIFEI is here,
+              remember always be greddy when they&apos;re “FEARY”.
             </div>
           </div>
 
@@ -151,7 +153,7 @@ export default function Home() {
             alfaFont.variable
           )}
         >
-          © 2024 by Fefe. All rights reserved!
+          © 2024 by Feifei. All rights reserved!
         </div>
       </div>
     </div>

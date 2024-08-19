@@ -15,8 +15,8 @@ const poorStoryFont = Poor_Story({
 });
 
 export const metadata: Metadata = {
-  title: 'Meet FEFE',
-  description: `$FEFE, the frog from Mindviscosity, go X420690 pump to the SUN`,
+  title: 'Meet FEIFEI',
+  description: `$FEIFEI, the frog from Mindviscosity, go X420690 pump to the SUN`,
 };
 
 export default function RootLayout({
