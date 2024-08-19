@@ -15,8 +15,8 @@ const poorStoryFont = Poor_Story({
 });
 
 export const metadata: Metadata = {
-  title: 'Meet Peggy',
-  description: `Meet Peggy - Britain’s Ugliest Dog, a cross between a Pug and a Chinese Crested Dog, who has recently gone viral on the internet and attained somewhat of a celebrity status with a following of 944k on Instagram. This adorably unique pup was cast as Wade Wilson’s new sidekick, Dogpool, in 'Deadpool & Wolverine'.`,
+  title: 'Meet FEFE',
+  description: `$FEFE, the frog from Mindviscosity, go X420690 pump to the SUN`,
 };
 
 export default function RootLayout({
