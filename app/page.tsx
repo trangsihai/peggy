@@ -75,10 +75,10 @@ export default function Home() {
                 alfaFont.variable
               )}
             >
-              FEIFEI is a laid back frog in this "FEARY" market. Everthing is
+              FEIFEI is a laid back frog in this &quot;FEARY&quot; market. Everthing is
               just fine cause FEIFEI is here, serious and brings many sunshine,
               many fun and much loves to TRON. Remeber again, FEIFEI is here,
-              remember always be greddy when they&apos;re “FEARY”.
+              remember always be greddy when they&apos;re &quot;FEARY&quot;.
             </div>
           </div>
 
