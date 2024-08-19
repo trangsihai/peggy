@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  @apply scroll-smooth;
+}
+
+body {
+  @apply bg-[url(./background.png)] bg-cover;
+}
+
+@layer components {
+  .text-heading {
+    @apply text-white text-center;
+    @apply text-5xl sm:text-6xl lg:text-7xl xl:text-8xl 2xl:text-9xl;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "peggy",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@9.7.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "hamburger-react": "^2.5.1",
+    "next": "14.2.5",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-fast-marquee": "^1.6.5",
+    "react-portal": "^4.2.2",
+    "react-stickynode": "^4.1.1",
+    "usehooks-ts": "^3.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/react-portal": "^4.0.7",
+    "@types/react-stickynode": "^4.0.3",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "eslint-plugin-tailwindcss": "^3.17.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "tailwindcss-multi": "^0.4.6",
+    "typescript": "^5"
+  }
+}
